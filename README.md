@@ -107,3 +107,11 @@ Part of the **SuperInstance** ternary computing crate family:
 ## License
 
 MIT
+
+## See Also
+- **ternary-markov** — related
+- **ternary-bayesian** — related
+- **ternary-predict** — related
+- **ternary-som** — related
+- **ternary-language-model** — related
+
